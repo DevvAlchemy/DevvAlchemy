@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anytime that will sharpen my skills
 - 📫 How to reach me ... stretch your arms
 - 😄 Pronouns: none
-- ⚡ Fun fact: kinda jack of all trades, I day  trade(Firm funded),aspiring Tech Genius, amatuer Boxer, trained Actor(gave up)
+- ⚡ Fun fact: kinda jack of all trades, I day  trade(Firm funded),aspiring Tech Wizz, amatuer Boxer, On screen trained Actor(gave up), guitarist & Great Dancer
 
 <!---
 DevvAlchemy/DevvAlchemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
