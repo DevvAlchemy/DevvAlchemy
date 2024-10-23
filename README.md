@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevvAlchemy
-- 👀 I’m interested in ... Terminal(really cool functions and tool)
+- 👀 I’m interested in ... Web&Mobile Development 
 - 🌱 I’m currently learning ... Version Control and collaboration
 - 💞️ I’m looking to collaborate on ... anything that will sharpen my dev skills
 - 📫 How to reach me? ... stretch your arms
