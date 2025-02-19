@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @DevvAlchemy<br>👀 I’m interested in ... Web&Mobile Development<br>🌱 I’m currently learning ... iOS Development with SWiftUI<br>💞️ I’m looking to collaborate on ... anything that will sharpen my dev skills<br>📫 How to reach me? ... stretch your arms<br>😄 Pronouns: none<br>⚡ Fun fact: kinda jack of all trades, Futures Day Trader(TopStep Firm funded),Aspiring Tech Wizz, Amatuer Boxer, Former On Screen Trained Actor, Guitarist & Great Dancer
+👋 Hi, I’m @DevvAlchemy<br>👀 I’m interested in ... Web&Mobile Development<br>🌱 I’m currently learning ... iOS Development with SWiftUI<br>💞️ I’m looking to collaborate on ... anything that will sharpen my dev skills<br>📫 How to reach me? ... stretch your arms<br>⚡ Fun fact: kinda jack of all trades, Futures Day Trader(TopStep Firm funded),Aspiring Tech Wizz, Amatuer Boxer, Former On Screen Trained Actor, Guitarist & Great Dancer
 
 
 # 💻 Tech Stack:
